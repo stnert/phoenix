@@ -89,7 +89,7 @@
         "prettier": "^2.7.1",
         "requirejs": "^2.3.6",
         "tern": "^0.24.3",
-        "tinycolor2": "^1.4.2",
+        "tinycolor2": "^1.6.0",
         "underscore": "^1.13.4"
     }
 }
