@@ -86,7 +86,7 @@
         "lodash": "^4.17.21",
         "marked": "^4.0.18",
         "mime-db": "^1.52.0",
-        "prettier": "^2.7.1",
+        "prettier": "^2.8.4",
         "requirejs": "^2.3.6",
         "tern": "^0.24.3",
         "tinycolor2": "^1.4.2",
