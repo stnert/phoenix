@@ -87,7 +87,7 @@
         "marked": "^4.0.18",
         "mime-db": "^1.52.0",
         "prettier": "^2.7.1",
-        "requirejs": "^2.3.6",
+        "requirejs": "^2.3.7",
         "tern": "^0.24.3",
         "tinycolor2": "^1.4.2",
         "underscore": "^1.13.4"
